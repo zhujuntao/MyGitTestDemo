@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void feature1(View view) {
         Log.d("tag","功能1");
+        Log.d("tag","新增功能1");
     }
 
     /**
