@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void feature2(View view) {
         Log.d("tag","功能2");
+        Log.d("tag","附加功能2");
     }
     /**
      * feature-3
@@ -39,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
      */
     public void feature3(View view) {
         Log.d("tag","功能3");
+        Log.d("tag","附加功能3");
     }
     /**
      * feature-4
